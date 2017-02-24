@@ -1,5 +1,5 @@
 .booked-main-container {
-    width: 100%;
+    width: 90%;
     height: 400px;
     margin: auto ;
     text-align: center;
@@ -12,7 +12,7 @@
 .booked-main-container h1 {
     font-size: 3rem;
     margin-bottom: 2rem;
-
+    color: white;
 }
 
 .booked-main-container img {
