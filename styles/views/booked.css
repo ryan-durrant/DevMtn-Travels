@@ -7,6 +7,10 @@
     background-repeat: no-repeat;
     padding-top:25px;
     overflow: hidden;
+    position: relative;
+    top: -100px;
+    display: flex;
+    align-items: center;
 }
 
 .booked-main-container h1 {
@@ -25,4 +29,8 @@
     background: #4BACC1;
     font-size: 18px;
     color: #FFFFFF;
+}
+
+.textAdjustment {
+  margin: auto;
 }
